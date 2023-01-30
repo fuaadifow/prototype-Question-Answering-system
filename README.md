@@ -9,5 +9,4 @@ word, we would like the system to be able to find a list of words that are seman
 close to it. E.g. By saying "Computer", the system should list "Software", "Technology",
 "Internet", "Computing" and "Devices" as the top 5 closest words. Or "Doctorate",
 "Bachelor", "Thesis", "Dissertation" and "Graduate" should be the top 5 closest words
-to "PhD". As mentioned already, we will use semantic embedding to achieve this, and a
-brief introduction will be provided below to help you better understand this assignment.
+to "PhD". As mentioned already, we will use semantic embedding to achieve this.
